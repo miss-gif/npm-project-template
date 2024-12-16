@@ -7,3 +7,8 @@
 - axios
 - @tanstack/react-query
 - react-router-dom
+- react-hook-form
+- zod
+- @hookform/resolvers
+- eslint
+- prettier
